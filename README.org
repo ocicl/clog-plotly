@@ -1,0 +1,9 @@
+* clog-plotly
+
+CLOG Plugin for Plotly.js
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/rabbibotton/clog-plotly.git |
+| commit  | 9f9c9a7                                            |
+| systems | clog-plotly                                        |
+|---------+----------------------------------------------------|
