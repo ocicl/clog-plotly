@@ -7,3 +7,4 @@ CLOG Plugin for Plotly.js
 | commit  | 8bbf487                                            |
 | systems | clog-plotly                                        |
 |---------+----------------------------------------------------|
+ 
